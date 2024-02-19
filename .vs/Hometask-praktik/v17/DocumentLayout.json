@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Hometask-praktik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6542684-612B-448A-BF0B-458114D81EFC}|Hometask-praktik\\Hometask-praktik.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\hometask-praktik\\hometask-praktik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6542684-612B-448A-BF0B-458114D81EFC}|Hometask-praktik\\Hometask-praktik.csproj|solutionrelative:hometask-praktik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Hometask-praktik\\Hometask-praktik\\Program.cs",
+              "RelativeDocumentMoniker": "Hometask-praktik\\Program.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\Hometask-praktik\\Hometask-praktik\\Program.cs",
+              "RelativeToolTip": "Hometask-praktik\\Program.cs",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAAAOwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T20:06:11.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
